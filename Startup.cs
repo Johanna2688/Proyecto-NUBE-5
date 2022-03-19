@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Proyecto_NUBE_5
+namespace ProyectoNUBE
 {
     public class Startup
     {
